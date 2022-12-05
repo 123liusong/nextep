@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Nextep",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}

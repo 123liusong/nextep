@@ -1,0 +1,8 @@
+{
+  "name": "Nextep",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "c1242f45"
+}
